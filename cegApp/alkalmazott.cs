@@ -6,7 +6,7 @@ namespace cegApp
 {
     internal class alkalmazott
     {
-        public string nev { get; set; }
+        public string nev { get; set; }// asd
 
         protected int Alapber { get; set; }
 
