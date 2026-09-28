@@ -14,7 +14,7 @@ namespace cegApp
         {
             this.nev = nev;
             this.Alapber = alapber;
-        }
+        }//
 
         public virtual int fizetesSzamitas()
         {
